@@ -1,7 +1,5 @@
-👋 Hi, I’m @saleha17814
-👀 I’m interested in UI/UX Design, Web Development, and Artificial Intelligence.
-🌱 I’m currently learning advanced UI/UX principles and mobile app interface design.
-💞️ I’m looking to collaborate on design projects, open-source contributions, and innovative tech solutions.
-📫 How to reach me: salehaaamin17@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I can blend creativity with code to create stunning user experiences!
+👋 Hi, I’m Saleha (@saleha17814), a passionate UI/UX Designer and Web Developer with a strong interest in creating user-centered digital experiences. My journey in tech has been fueled by a blend of creativity and technical expertise, allowing me to craft intuitive and visually appealing interfaces. I’m particularly interested in User Experience & Interface Design, where I focus on designing seamless and accessible interfaces that prioritize user satisfaction. Additionally, I’m dedicated to Web Development, building responsive and dynamic websites, and exploring the potential of Artificial Intelligence in enhancing user interactions and solving complex problems.
+
+Currently, I’m diving deeper into mobile app interface design and advanced UI/UX principles, aiming to create designs that not only look good but also deliver exceptional usability. I’m always excited to collaborate on design projects, whether it’s a website, mobile app, or a branding project, and I’m eager to contribute to open-source projects that focus on improving user experience and accessibility. I love working on innovative tech solutions that push the boundaries of technology and design.
+
+You can reach me at salehaaamin17@gmail.com for collaboration opportunities or to connect and chat about design and tech! My pronouns are She/Her, and a fun fact about me is that I have a knack for blending creativity with code, turning complex ideas into beautiful, functional designs. When I’m not designing, you can find me exploring new tech trends or diving into a good book!
